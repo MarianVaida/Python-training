@@ -1,6 +1,6 @@
 import sys
 
-# Define a main() function that prints a little greeting.
+# Define a main() function that prints a listing.
 def main():
   principal = 1000
   rate = 0.05
