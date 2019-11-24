@@ -8,7 +8,7 @@ def main():
   year = 1
   while year <= numyears:
     principal = principal*(1+rate)
-    print year, principal
+    print "%3d  %0.2f" % (year, principal)
     year +=1
 
 # This is the standard boilerplate that calls the main() function.
